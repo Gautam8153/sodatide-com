@@ -1,2 +1,0 @@
-# sodatide-com
-Static site

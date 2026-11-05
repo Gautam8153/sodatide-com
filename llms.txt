@@ -1,0 +1,26 @@
+# Sodatide
+
+> Sodatide is a Digestive & Gut Health Synbiotic Supplement. Sodatide™ is a once-daily dietary supplement built as a synbiotic — a combination of probiotic-style beneficial bacteria and prebiotic fiber that feeds them. Taken as one serving a day, it is positioned to support everyday digestion, a balanced gut microbiome and general metabolic wellness. Rather than a single-strain probiotic or a stand-alone fiber powder, Sodatide pairs the two halves of the synbiotic idea in one daily routine, aiming to help the gut environment stay comfortable and consistent from day to day.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://sodatide-com.onrender.com/)
+- [What Sodatide is](https://sodatide-com.onrender.com/what-is-product.html)
+- [How Sodatide works](https://sodatide-com.onrender.com/how-it-works.html)
+- [Sodatide ingredients, explained individually](https://sodatide-com.onrender.com/ingredients.html)
+- [Sodatide benefits](https://sodatide-com.onrender.com/benefits.html)
+- [Sodatide customer reviews](https://sodatide-com.onrender.com/reviews.html)
+- [Sodatide frequently asked questions](https://sodatide-com.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying Sodatide](https://sodatide-com.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at Sodatide — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://sodatide-com.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using Sodatide's own label as a real example of what to look for.
+- [Sodatide: An Honest Review](https://sodatide-com.onrender.com/blog/sodatide-honest-review.html): An honest look at Sodatide — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [Probiotic Blend (Beneficial Live Cultures) vs Prebiotic Fiber (Inulin-Type Fructans): What Each Does In Sodatide](https://sodatide-com.onrender.com/blog/probiotic-blend-beneficial-live-cultures-vs-prebiotic-fiber-inulin-type-fructans.html): Probiotic Blend (Beneficial Live Cultures) and Prebiotic Fiber (Inulin-Type Fructans) are both in Sodatide but play different roles — here is what each one
+- [Daily Habits That Complement Sodatide](https://sodatide-com.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with Sodatide as part of a digestive & gut health synbiotic routine.
+- [Sodatide FAQ: Dosage, Timing, Who Should Skip It](https://sodatide-com.onrender.com/blog/sodatide-faq.html): Common questions about Sodatide — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://sodatide-com.onrender.com/terms.html)
+- [Privacy Policy](https://sodatide-com.onrender.com/privacy-policy.html)
+- [Disclaimer](https://sodatide-com.onrender.com/disclaimer.html)
+- [Refund Policy](https://sodatide-com.onrender.com/refund-policy.html)
+- [About Us](https://sodatide-com.onrender.com/about.html)
+- [Contact Us](https://sodatide-com.onrender.com/contact.html)

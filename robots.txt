@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /order/
+Sitemap: https://sodatide-com.onrender.com/sitemap.xml
